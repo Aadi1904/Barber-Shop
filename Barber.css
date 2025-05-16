@@ -1,0 +1,4744 @@
+     .style-0 {
+            cursor: auto;
+            background-color: rgb(248, 250, 252);
+            font-family: Inter, sans-serif;
+            color: rgb(2, 8, 23);
+            border-color: rgb(226, 232, 240);
+            margin: 0px;
+            line-height: 24px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-1 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-2 {
+            pointer-events: none;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-3 {
+            max-width: 420px;
+            flex-direction: column;
+            top: auto;
+            right: 0px;
+            bottom: 0px;
+            padding: 16px;
+            width: 100%;
+            max-height: 729.6px;
+            display: flex;
+            z-index: 100;
+            position: fixed;
+            border-color: rgb(226, 232, 240);
+            list-style: outside none none;
+            margin: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-4 {
+            background-color: rgb(255, 255, 255);
+            min-height: 729.6px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-5 {
+            animation-duration: 0.3s;
+            transition-duration: 0.3s;
+            transition-property: all;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.1) 0px 2px 4px -2px;
+            padding-top: 8px;
+            padding-bottom: 8px;
+            background-color: rgb(255, 255, 255);
+            z-index: 50;
+            top: 0px;
+            right: 0px;
+            left: 0px;
+            position: fixed;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-6 {
+            padding-left: 24px;
+            padding-right: 24px;
+            max-width: 1400px;
+            margin-left: auto;
+            margin-right: auto;
+            width: 100%;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-7 {
+            justify-content: space-between;
+            align-items: center;
+            display: flex;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-8 {
+            color: rgb(15, 23, 42);
+            font-weight: 700;
+            font-size: 24px;
+            line-height: 32px;
+            font-family: 'Playfair Display', serif;
+            border-color: rgb(226, 232, 240);
+            text-decoration: none solid rgb(15, 23, 42);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-9 {
+            color: rgb(197, 157, 95);
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-10 {
+            display: flex;
+            align-items: center;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-11 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-12 {
+            transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            transition-duration: 0.15s;
+            font-weight: 500;
+            border-color: rgb(226, 232, 240);
+            color: rgb(2, 8, 23);
+            text-decoration: none solid rgb(2, 8, 23);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-13 {
+            transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            transition-duration: 0.15s;
+            font-weight: 500;
+            margin-right: 0px;
+            margin-left: 24px;
+            border-color: rgb(226, 232, 240);
+            color: rgb(2, 8, 23);
+            text-decoration: none solid rgb(2, 8, 23);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-14 {
+            transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            transition-duration: 0.15s;
+            font-weight: 500;
+            margin-right: 0px;
+            margin-left: 24px;
+            border-color: rgb(226, 232, 240);
+            color: rgb(2, 8, 23);
+            text-decoration: none solid rgb(2, 8, 23);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-15 {
+            transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            transition-duration: 0.15s;
+            font-weight: 500;
+            margin-right: 0px;
+            margin-left: 24px;
+            border-color: rgb(226, 232, 240);
+            color: rgb(2, 8, 23);
+            text-decoration: none solid rgb(2, 8, 23);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-16 {
+            transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            transition-duration: 0.15s;
+            font-weight: 500;
+            margin-right: 0px;
+            margin-left: 24px;
+            border-color: rgb(226, 232, 240);
+            color: rgb(2, 8, 23);
+            text-decoration: none solid rgb(2, 8, 23);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-17 {
+            transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            transition-duration: 0.15s;
+            color: rgb(255, 255, 255);
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 20px;
+            padding-top: 8px;
+            padding-bottom: 8px;
+            padding-left: 16px;
+            padding-right: 16px;
+            background-color: rgb(197, 157, 95);
+            border-radius: 6px;
+            white-space: nowrap;
+            margin-right: 0px;
+            margin-left: 32px;
+            gap: 8px;
+            justify-content: center;
+            align-items: center;
+            height: 40px;
+            display: flex;
+            border-color: rgb(226, 232, 240);
+            cursor: pointer;
+            appearance: button;
+            background-image: none;
+            text-transform: none;
+            font-family: Inter, sans-serif;
+            font-feature-settings: normal;
+            font-variation-settings: normal;
+            letter-spacing: normal;
+            margin: 0px 0px 0px 32px;
+            padding: 8px 16px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-18 {
+            flex-shrink: 0;
+            width: 1rem;
+            height: 16px;
+            pointer-events: none;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-19 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-20 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-21 {
+            display: none;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-22 {
+            padding: 8px;
+            border-color: rgb(226, 232, 240);
+            cursor: pointer;
+            appearance: button;
+            background-color: rgba(0, 0, 0, 0);
+            background-image: none;
+            text-transform: none;
+            font-family: Inter, sans-serif;
+            font-feature-settings: normal;
+            font-variation-settings: normal;
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 24px;
+            letter-spacing: normal;
+            color: rgb(2, 8, 23);
+            margin: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-23 {
+            transition-property: all;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            transition-duration: 0.15s;
+            background-color: rgb(15, 23, 42);
+            width: 1.5rem;
+            height: 2px;
+            margin-bottom: 6px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-24 {
+            opacity: 1;
+            background-color: rgb(15, 23, 42);
+            width: 1.5rem;
+            height: 2px;
+            margin-bottom: 6px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-25 {
+            background-color: rgb(15, 23, 42);
+            width: 1.5rem;
+            height: 2px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-26 {
+            background-image: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url(&quot;https://images.unsplash.com/photo-1503951914875-452162b0f3f1?ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;w=1770&amp;q=80&quot;);
+            background-size: cover;
+            background-position: center center;
+            background-size: cover, cover;
+            background-position: 50% 50%, 50% 50%;
+            align-items: center;
+            height: 729.6px;
+            display: flex;
+            position: relative;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-27 {
+            padding-left: 24px;
+            padding-right: 24px;
+            max-width: 1400px;
+            margin-left: auto;
+            margin-right: auto;
+            width: 100%;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-28 {
+            max-width: 768px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-29 {
+            align-items: center;
+            display: flex;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-30 {
+            background-color: rgb(197, 157, 95);
+            width: 2.5rem;
+            height: 4px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-31 {
+            color: rgb(197, 157, 95);
+            letter-spacing: 1.4px;
+            text-transform: uppercase;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 20px;
+            margin-right: 0px;
+            margin-left: 8px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-32 {
+            font-size: 60px;
+            line-height: 60px;
+            color: rgb(255, 255, 255);
+            font-weight: 700;
+            font-family: 'Playfair Display', serif;
+            margin-top: 24px;
+            margin-bottom: 0px;
+            border-color: rgb(226, 232, 240);
+            margin: 24px 0px 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-33 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-34 {
+            color: rgb(197, 157, 95);
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-35 {
+            color: rgb(209, 213, 219);
+            font-size: 18px;
+            line-height: 28px;
+            margin-top: 24px;
+            margin-bottom: 0px;
+            max-width: 576px;
+            border-color: rgb(226, 232, 240);
+            margin: 24px 0px 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-36 {
+            margin-top: 24px;
+            margin-bottom: 0px;
+            gap: 16px;
+            flex-wrap: wrap;
+            display: flex;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-37 {
+            transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            transition-duration: 0.15s;
+            color: rgb(248, 250, 252);
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 20px;
+            padding-top: 8px;
+            padding-bottom: 8px;
+            padding-left: 16px;
+            padding-right: 16px;
+            background-color: rgb(52, 66, 86);
+            border-radius: 6px;
+            white-space: nowrap;
+            gap: 8px;
+            justify-content: center;
+            align-items: center;
+            height: 40px;
+            display: flex;
+            padding: 8px 16px;
+            animation-duration: 0.3s;
+            border-color: rgb(226, 232, 240);
+            cursor: pointer;
+            appearance: button;
+            background-image: none;
+            text-transform: none;
+            font-family: Inter, sans-serif;
+            font-feature-settings: normal;
+            font-variation-settings: normal;
+            letter-spacing: normal;
+            margin: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-38 {
+            transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            transition-duration: 0.15s;
+            color: rgb(255, 255, 255);
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 20px;
+            padding-top: 8px;
+            padding-bottom: 8px;
+            padding-left: 16px;
+            padding-right: 16px;
+            background-color: rgba(0, 0, 0, 0);
+            border-color: rgb(255, 255, 255);
+            border-width: 0.8px;
+            border-radius: 6px;
+            white-space: nowrap;
+            gap: 8px;
+            justify-content: center;
+            align-items: center;
+            height: 40px;
+            display: flex;
+            cursor: pointer;
+            appearance: button;
+            background-image: none;
+            text-transform: none;
+            font-family: Inter, sans-serif;
+            font-feature-settings: normal;
+            font-variation-settings: normal;
+            letter-spacing: normal;
+            margin: 0px;
+            padding: 8px 16px;
+            box-sizing: border-box;
+            border-style: solid;
+        }
+
+        .style-39 {
+            grid-template-columns: 240px 240px 240px;
+            padding-top: 48px;
+            border-color: rgb(55, 65, 81);
+            border-top-width: 0.8px;
+            margin-top: 24px;
+            margin-bottom: 0px;
+            gap: 24px;
+            display: grid;
+            box-sizing: border-box;
+            border-width: 0.8px 0px 0px;
+            border-style: solid;
+        }
+
+        .style-40 {
+            align-items: center;
+            display: flex;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-41 {
+            padding: 8px;
+            background-color: rgb(197, 157, 95);
+            border-radius: 9999px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-42 {
+            color: rgb(255, 255, 255);
+            width: 1.25rem;
+            height: 20px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-43 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-44 {
+            margin-right: 0px;
+            margin-left: 12px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-45 {
+            color: rgb(255, 255, 255);
+            font-weight: 500;
+            border-color: rgb(226, 232, 240);
+            margin: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-46 {
+            color: rgb(156, 163, 175);
+            font-size: 14px;
+            line-height: 20px;
+            border-color: rgb(226, 232, 240);
+            margin: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-47 {
+            align-items: center;
+            display: flex;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-48 {
+            padding: 8px;
+            background-color: rgb(197, 157, 95);
+            border-radius: 9999px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-49 {
+            color: rgb(255, 255, 255);
+            width: 1.25rem;
+            height: 20px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-50 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-51 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-52 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-53 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-54 {
+            margin-right: 0px;
+            margin-left: 12px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-55 {
+            color: rgb(255, 255, 255);
+            font-weight: 500;
+            border-color: rgb(226, 232, 240);
+            margin: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-56 {
+            color: rgb(156, 163, 175);
+            font-size: 14px;
+            line-height: 20px;
+            border-color: rgb(226, 232, 240);
+            margin: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-57 {
+            align-items: center;
+            display: flex;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-58 {
+            padding: 8px;
+            background-color: rgb(197, 157, 95);
+            border-radius: 9999px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-59 {
+            color: rgb(255, 255, 255);
+            width: 1.25rem;
+            height: 20px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-60 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-61 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-62 {
+            margin-right: 0px;
+            margin-left: 12px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-63 {
+            color: rgb(255, 255, 255);
+            font-weight: 500;
+            border-color: rgb(226, 232, 240);
+            margin: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-64 {
+            color: rgb(156, 163, 175);
+            font-size: 14px;
+            line-height: 20px;
+            border-color: rgb(226, 232, 240);
+            margin: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-65 {
+            --tw-gradient-to: transparent 1;
+            --tw-gradient-from: rgb(0 0 0 / .5) 1;
+            background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0));
+            height: 128px;
+            right: 0px;
+            left: 0px;
+            bottom: 0px;
+            position: absolute;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-66 {
+            padding-top: 80px;
+            padding-bottom: 80px;
+            background-color: rgb(245, 245, 220);
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-67 {
+            padding-left: 24px;
+            padding-right: 24px;
+            max-width: 1400px;
+            margin-left: auto;
+            margin-right: auto;
+            width: 100%;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-68 {
+            text-align: center;
+            max-width: 768px;
+            margin-left: auto;
+            margin-right: auto;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-69 {
+            color: rgb(197, 157, 95);
+            letter-spacing: 1.4px;
+            text-transform: uppercase;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 20px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-70 {
+            font-size: 36px;
+            line-height: 40px;
+            font-weight: 700;
+            font-family: 'Playfair Display', serif;
+            margin-top: 8px;
+            margin-bottom: 24px;
+            border-color: rgb(226, 232, 240);
+            margin: 8px 0px 24px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-71 {
+            color: rgb(75, 85, 99);
+            margin-bottom: 32px;
+            border-color: rgb(226, 232, 240);
+            margin: 0px 0px 32px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-72 {
+            grid-template-columns: 234.663px 234.663px 234.675px;
+            gap: 32px;
+            display: grid;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-73 {
+            box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.1) 0px 2px 4px -2px;
+            padding: 24px;
+            background-color: rgb(255, 255, 255);
+            border-radius: 8px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-74 {
+            font-weight: 700;
+            font-size: 20px;
+            line-height: 28px;
+            font-family: 'Playfair Display', serif;
+            margin-bottom: 12px;
+            border-color: rgb(226, 232, 240);
+            margin: 0px 0px 12px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-75 {
+            color: rgb(75, 85, 99);
+            border-color: rgb(226, 232, 240);
+            margin: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-76 {
+            box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.1) 0px 2px 4px -2px;
+            padding: 24px;
+            background-color: rgb(255, 255, 255);
+            border-radius: 8px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-77 {
+            font-weight: 700;
+            font-size: 20px;
+            line-height: 28px;
+            font-family: 'Playfair Display', serif;
+            margin-bottom: 12px;
+            border-color: rgb(226, 232, 240);
+            margin: 0px 0px 12px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-78 {
+            color: rgb(75, 85, 99);
+            border-color: rgb(226, 232, 240);
+            margin: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-79 {
+            box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.1) 0px 2px 4px -2px;
+            padding: 24px;
+            background-color: rgb(255, 255, 255);
+            border-radius: 8px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-80 {
+            font-weight: 700;
+            font-size: 20px;
+            line-height: 28px;
+            font-family: 'Playfair Display', serif;
+            margin-bottom: 12px;
+            border-color: rgb(226, 232, 240);
+            margin: 0px 0px 12px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-81 {
+            color: rgb(75, 85, 99);
+            border-color: rgb(226, 232, 240);
+            margin: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-82 {
+            padding-top: 80px;
+            padding-bottom: 80px;
+            background-color: rgb(249, 250, 251);
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-83 {
+            padding-left: 24px;
+            padding-right: 24px;
+            max-width: 1400px;
+            margin-left: auto;
+            margin-right: auto;
+            width: 100%;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-84 {
+            text-align: center;
+            max-width: 768px;
+            margin-bottom: 64px;
+            margin-left: auto;
+            margin-right: auto;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-85 {
+            color: rgb(197, 157, 95);
+            letter-spacing: 1.4px;
+            text-transform: uppercase;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 20px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-86 {
+            font-size: 36px;
+            line-height: 40px;
+            font-weight: 700;
+            font-family: 'Playfair Display', serif;
+            margin-top: 8px;
+            margin-bottom: 16px;
+            border-color: rgb(226, 232, 240);
+            margin: 8px 0px 16px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-87 {
+            background-color: rgb(197, 157, 95);
+            width: 5rem;
+            height: 4px;
+            margin-bottom: 24px;
+            margin-left: auto;
+            margin-right: auto;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-88 {
+            color: rgb(75, 85, 99);
+            border-color: rgb(226, 232, 240);
+            margin: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-89 {
+            grid-template-columns: 314px 314px 314px 314px;
+            gap: 32px;
+            display: grid;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-90 {
+            border-radius: 8px;
+            border-width: 0.8px;
+            border-color: rgb(229, 231, 235);
+            background-color: rgb(255, 255, 255);
+            padding: 24px;
+            transition-property: all;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            transition-duration: 0.3s;
+            animation-duration: 0.3s;
+            box-sizing: border-box;
+            border-style: solid;
+        }
+
+        .style-91 {
+            justify-content: space-between;
+            align-items: flex-start;
+            display: flex;
+            margin-bottom: 16px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-92 {
+            font-weight: 600;
+            font-size: 20px;
+            line-height: 28px;
+            font-family: 'Playfair Display', serif;
+            border-color: rgb(226, 232, 240);
+            margin: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-93 {
+            color: rgb(197, 157, 95);
+            font-weight: 700;
+            font-size: 20px;
+            line-height: 28px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-94 {
+            color: rgb(75, 85, 99);
+            margin-bottom: 16px;
+            border-color: rgb(226, 232, 240);
+            margin: 0px 0px 16px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-95 {
+            border-color: rgb(226, 232, 240);
+            list-style: outside none none;
+            margin: 0px;
+            padding: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-96 {
+            color: rgb(55, 65, 81);
+            align-items: center;
+            display: flex;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-97 {
+            color: rgb(197, 157, 95);
+            flex-shrink: 0;
+            width: 1rem;
+            height: 16px;
+            margin-right: 8px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-98 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-99 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-100 {
+            color: rgb(55, 65, 81);
+            margin-top: 8px;
+            margin-bottom: 0px;
+            align-items: center;
+            display: flex;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-101 {
+            color: rgb(197, 157, 95);
+            flex-shrink: 0;
+            width: 1rem;
+            height: 16px;
+            margin-right: 8px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-102 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-103 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-104 {
+            color: rgb(55, 65, 81);
+            margin-top: 8px;
+            margin-bottom: 0px;
+            align-items: center;
+            display: flex;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-105 {
+            color: rgb(197, 157, 95);
+            flex-shrink: 0;
+            width: 1rem;
+            height: 16px;
+            margin-right: 8px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-106 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-107 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-108 {
+            color: rgb(55, 65, 81);
+            margin-top: 8px;
+            margin-bottom: 0px;
+            align-items: center;
+            display: flex;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-109 {
+            color: rgb(197, 157, 95);
+            flex-shrink: 0;
+            width: 1rem;
+            height: 16px;
+            margin-right: 8px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-110 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-111 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-112 {
+            border-radius: 8px;
+            border-width: 0.8px;
+            border-color: rgb(229, 231, 235);
+            background-color: rgb(255, 255, 255);
+            padding: 24px;
+            transition-property: all;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            transition-duration: 0.3s;
+            animation-duration: 0.3s;
+            box-sizing: border-box;
+            border-style: solid;
+        }
+
+        .style-113 {
+            justify-content: space-between;
+            align-items: flex-start;
+            display: flex;
+            margin-bottom: 16px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-114 {
+            font-weight: 600;
+            font-size: 20px;
+            line-height: 28px;
+            font-family: 'Playfair Display', serif;
+            border-color: rgb(226, 232, 240);
+            margin: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-115 {
+            color: rgb(197, 157, 95);
+            font-weight: 700;
+            font-size: 20px;
+            line-height: 28px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-116 {
+            color: rgb(75, 85, 99);
+            margin-bottom: 16px;
+            border-color: rgb(226, 232, 240);
+            margin: 0px 0px 16px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-117 {
+            border-color: rgb(226, 232, 240);
+            list-style: outside none none;
+            margin: 0px;
+            padding: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-118 {
+            color: rgb(55, 65, 81);
+            align-items: center;
+            display: flex;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-119 {
+            color: rgb(197, 157, 95);
+            flex-shrink: 0;
+            width: 1rem;
+            height: 16px;
+            margin-right: 8px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-120 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-121 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-122 {
+            color: rgb(55, 65, 81);
+            margin-top: 8px;
+            margin-bottom: 0px;
+            align-items: center;
+            display: flex;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-123 {
+            color: rgb(197, 157, 95);
+            flex-shrink: 0;
+            width: 1rem;
+            height: 16px;
+            margin-right: 8px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-124 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-125 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-126 {
+            color: rgb(55, 65, 81);
+            margin-top: 8px;
+            margin-bottom: 0px;
+            align-items: center;
+            display: flex;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-127 {
+            color: rgb(197, 157, 95);
+            flex-shrink: 0;
+            width: 1rem;
+            height: 16px;
+            margin-right: 8px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-128 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-129 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-130 {
+            color: rgb(55, 65, 81);
+            margin-top: 8px;
+            margin-bottom: 0px;
+            align-items: center;
+            display: flex;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-131 {
+            color: rgb(197, 157, 95);
+            flex-shrink: 0;
+            width: 1rem;
+            height: 16px;
+            margin-right: 8px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-132 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-133 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-134 {
+            border-radius: 8px;
+            border-width: 0.8px;
+            border-color: rgb(229, 231, 235);
+            background-color: rgb(255, 255, 255);
+            padding: 24px;
+            transition-property: all;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            transition-duration: 0.3s;
+            animation-duration: 0.3s;
+            box-sizing: border-box;
+            border-style: solid;
+        }
+
+        .style-135 {
+            justify-content: space-between;
+            align-items: flex-start;
+            display: flex;
+            margin-bottom: 16px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-136 {
+            font-weight: 600;
+            font-size: 20px;
+            line-height: 28px;
+            font-family: 'Playfair Display', serif;
+            border-color: rgb(226, 232, 240);
+            margin: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-137 {
+            color: rgb(197, 157, 95);
+            font-weight: 700;
+            font-size: 20px;
+            line-height: 28px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-138 {
+            color: rgb(75, 85, 99);
+            margin-bottom: 16px;
+            border-color: rgb(226, 232, 240);
+            margin: 0px 0px 16px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-139 {
+            border-color: rgb(226, 232, 240);
+            list-style: outside none none;
+            margin: 0px;
+            padding: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-140 {
+            color: rgb(55, 65, 81);
+            align-items: center;
+            display: flex;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-141 {
+            color: rgb(197, 157, 95);
+            flex-shrink: 0;
+            width: 1rem;
+            height: 16px;
+            margin-right: 8px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-142 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-143 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-144 {
+            color: rgb(55, 65, 81);
+            margin-top: 8px;
+            margin-bottom: 0px;
+            align-items: center;
+            display: flex;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-145 {
+            color: rgb(197, 157, 95);
+            flex-shrink: 0;
+            width: 1rem;
+            height: 16px;
+            margin-right: 8px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-146 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-147 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-148 {
+            color: rgb(55, 65, 81);
+            margin-top: 8px;
+            margin-bottom: 0px;
+            align-items: center;
+            display: flex;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-149 {
+            color: rgb(197, 157, 95);
+            flex-shrink: 0;
+            width: 1rem;
+            height: 16px;
+            margin-right: 8px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-150 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-151 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-152 {
+            color: rgb(55, 65, 81);
+            margin-top: 8px;
+            margin-bottom: 0px;
+            align-items: center;
+            display: flex;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-153 {
+            color: rgb(197, 157, 95);
+            flex-shrink: 0;
+            width: 1rem;
+            height: 16px;
+            margin-right: 8px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-154 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-155 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-156 {
+            border-radius: 8px;
+            border-width: 0.8px;
+            border-color: rgb(229, 231, 235);
+            background-color: rgb(255, 255, 255);
+            padding: 24px;
+            transition-property: all;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            transition-duration: 0.3s;
+            animation-duration: 0.3s;
+            box-sizing: border-box;
+            border-style: solid;
+        }
+
+        .style-157 {
+            justify-content: space-between;
+            align-items: flex-start;
+            display: flex;
+            margin-bottom: 16px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-158 {
+            font-weight: 600;
+            font-size: 20px;
+            line-height: 28px;
+            font-family: 'Playfair Display', serif;
+            border-color: rgb(226, 232, 240);
+            margin: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-159 {
+            color: rgb(197, 157, 95);
+            font-weight: 700;
+            font-size: 20px;
+            line-height: 28px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-160 {
+            color: rgb(75, 85, 99);
+            margin-bottom: 16px;
+            border-color: rgb(226, 232, 240);
+            margin: 0px 0px 16px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-161 {
+            border-color: rgb(226, 232, 240);
+            list-style: outside none none;
+            margin: 0px;
+            padding: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-162 {
+            color: rgb(55, 65, 81);
+            align-items: center;
+            display: flex;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-163 {
+            color: rgb(197, 157, 95);
+            flex-shrink: 0;
+            width: 1rem;
+            height: 16px;
+            margin-right: 8px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-164 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-165 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-166 {
+            color: rgb(55, 65, 81);
+            margin-top: 8px;
+            margin-bottom: 0px;
+            align-items: center;
+            display: flex;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-167 {
+            color: rgb(197, 157, 95);
+            flex-shrink: 0;
+            width: 1rem;
+            height: 16px;
+            margin-right: 8px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-168 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-169 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-170 {
+            color: rgb(55, 65, 81);
+            margin-top: 8px;
+            margin-bottom: 0px;
+            align-items: center;
+            display: flex;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-171 {
+            color: rgb(197, 157, 95);
+            flex-shrink: 0;
+            width: 1rem;
+            height: 16px;
+            margin-right: 8px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-172 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-173 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-174 {
+            color: rgb(55, 65, 81);
+            margin-top: 8px;
+            margin-bottom: 0px;
+            align-items: center;
+            display: flex;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-175 {
+            color: rgb(197, 157, 95);
+            flex-shrink: 0;
+            width: 1rem;
+            height: 16px;
+            margin-right: 8px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-176 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-177 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-178 {
+            text-align: center;
+            margin-top: 48px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-179 {
+            color: rgb(107, 114, 128);
+            font-style: italic;
+            margin-bottom: 16px;
+            border-color: rgb(226, 232, 240);
+            margin: 0px 0px 16px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-180 {
+            border-radius: 4px;
+            background-color: rgb(197, 157, 95);
+            padding: 12px 24px;
+            font-weight: 600;
+            color: rgb(255, 255, 255);
+            transition-property: all;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            transition-duration: 0.3s;
+            animation-duration: 0.3s;
+            border-color: rgb(226, 232, 240);
+            cursor: pointer;
+            appearance: button;
+            background-image: none;
+            text-transform: none;
+            font-family: Inter, sans-serif;
+            font-feature-settings: normal;
+            font-variation-settings: normal;
+            font-size: 16px;
+            line-height: 24px;
+            letter-spacing: normal;
+            margin: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-181 {
+            padding-top: 80px;
+            padding-bottom: 80px;
+            background-color: rgb(255, 255, 255);
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-182 {
+            padding-left: 24px;
+            padding-right: 24px;
+            max-width: 1400px;
+            margin-left: auto;
+            margin-right: auto;
+            width: 100%;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-183 {
+            text-align: center;
+            max-width: 768px;
+            margin-bottom: 64px;
+            margin-left: auto;
+            margin-right: auto;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-184 {
+            color: rgb(197, 157, 95);
+            letter-spacing: 1.4px;
+            text-transform: uppercase;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 20px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-185 {
+            font-size: 36px;
+            line-height: 40px;
+            font-weight: 700;
+            font-family: 'Playfair Display', serif;
+            margin-top: 8px;
+            margin-bottom: 16px;
+            border-color: rgb(226, 232, 240);
+            margin: 8px 0px 16px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-186 {
+            background-color: rgb(197, 157, 95);
+            width: 5rem;
+            height: 4px;
+            margin-bottom: 24px;
+            margin-left: auto;
+            margin-right: auto;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-187 {
+            color: rgb(75, 85, 99);
+            border-color: rgb(226, 232, 240);
+            margin: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-188 {
+            grid-template-columns: 434.663px 434.663px 434.663px;
+            gap: 24px;
+            display: grid;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-189 {
+            aspect-ratio: 1 / 1;
+            overflow: hidden;
+            border-radius: 8px;
+            box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px;
+            transition-property: all;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            transition-duration: 0.3s;
+            animation-duration: 0.3s;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-190 {
+            overflow: hidden;
+            width: 100%;
+            height: 434.663px;
+            position: relative;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-191 {
+            animation-duration: 0.5s;
+            transition-duration: 0.5s;
+            transition-property: transform;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            object-fit: cover;
+            width: 100%;
+            height: 434.663px;
+            border-color: rgb(226, 232, 240);
+            max-width: 100%;
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-192 {
+            animation-duration: 0.3s;
+            transition-duration: 0.3s;
+            transition-property: opacity;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            opacity: 0;
+            padding: 24px;
+            --tw-gradient-to: transparent 1;
+            --tw-gradient-from: rgb(0 0 0 / .7) 1;
+            background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0));
+            align-items: flex-end;
+            display: flex;
+            inset: 0px;
+            position: absolute;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-193 {
+            color: rgb(255, 255, 255);
+            font-weight: 500;
+            border-color: rgb(226, 232, 240);
+            margin: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-194 {
+            aspect-ratio: 1 / 1;
+            overflow: hidden;
+            border-radius: 8px;
+            box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px;
+            transition-property: all;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            transition-duration: 0.3s;
+            animation-duration: 0.3s;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-195 {
+            overflow: hidden;
+            width: 100%;
+            height: 434.663px;
+            position: relative;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-196 {
+            animation-duration: 0.5s;
+            transition-duration: 0.5s;
+            transition-property: transform;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            object-fit: cover;
+            width: 100%;
+            height: 434.663px;
+            border-color: rgb(226, 232, 240);
+            max-width: 100%;
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-197 {
+            animation-duration: 0.3s;
+            transition-duration: 0.3s;
+            transition-property: opacity;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            opacity: 0;
+            padding: 24px;
+            --tw-gradient-to: transparent 1;
+            --tw-gradient-from: rgb(0 0 0 / .7) 1;
+            background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0));
+            align-items: flex-end;
+            display: flex;
+            inset: 0px;
+            position: absolute;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-198 {
+            color: rgb(255, 255, 255);
+            font-weight: 500;
+            border-color: rgb(226, 232, 240);
+            margin: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-199 {
+            aspect-ratio: 1 / 1;
+            overflow: hidden;
+            border-radius: 8px;
+            box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px;
+            transition-property: all;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            transition-duration: 0.3s;
+            animation-duration: 0.3s;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-200 {
+            overflow: hidden;
+            width: 100%;
+            height: 434.663px;
+            position: relative;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-201 {
+            animation-duration: 0.5s;
+            transition-duration: 0.5s;
+            transition-property: transform;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            object-fit: cover;
+            width: 100%;
+            height: 434.663px;
+            border-color: rgb(226, 232, 240);
+            max-width: 100%;
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-202 {
+            animation-duration: 0.3s;
+            transition-duration: 0.3s;
+            transition-property: opacity;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            opacity: 0;
+            padding: 24px;
+            --tw-gradient-to: transparent 1;
+            --tw-gradient-from: rgb(0 0 0 / .7) 1;
+            background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0));
+            align-items: flex-end;
+            display: flex;
+            inset: 0px;
+            position: absolute;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-203 {
+            color: rgb(255, 255, 255);
+            font-weight: 500;
+            border-color: rgb(226, 232, 240);
+            margin: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-204 {
+            aspect-ratio: 1 / 1;
+            overflow: hidden;
+            border-radius: 8px;
+            box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px;
+            transition-property: all;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            transition-duration: 0.3s;
+            animation-duration: 0.3s;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-205 {
+            overflow: hidden;
+            width: 100%;
+            height: 434.663px;
+            position: relative;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-206 {
+            animation-duration: 0.5s;
+            transition-duration: 0.5s;
+            transition-property: transform;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            object-fit: cover;
+            width: 100%;
+            height: 434.663px;
+            border-color: rgb(226, 232, 240);
+            max-width: 100%;
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-207 {
+            animation-duration: 0.3s;
+            transition-duration: 0.3s;
+            transition-property: opacity;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            opacity: 0;
+            padding: 24px;
+            --tw-gradient-to: transparent 1;
+            --tw-gradient-from: rgb(0 0 0 / .7) 1;
+            background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0));
+            align-items: flex-end;
+            display: flex;
+            inset: 0px;
+            position: absolute;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-208 {
+            color: rgb(255, 255, 255);
+            font-weight: 500;
+            border-color: rgb(226, 232, 240);
+            margin: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-209 {
+            aspect-ratio: 1 / 1;
+            overflow: hidden;
+            border-radius: 8px;
+            box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px;
+            transition-property: all;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            transition-duration: 0.3s;
+            animation-duration: 0.3s;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-210 {
+            overflow: hidden;
+            width: 100%;
+            height: 434.663px;
+            position: relative;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-211 {
+            animation-duration: 0.5s;
+            transition-duration: 0.5s;
+            transition-property: transform;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            object-fit: cover;
+            width: 100%;
+            height: 434.663px;
+            border-color: rgb(226, 232, 240);
+            max-width: 100%;
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-212 {
+            animation-duration: 0.3s;
+            transition-duration: 0.3s;
+            transition-property: opacity;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            opacity: 0;
+            padding: 24px;
+            --tw-gradient-to: transparent 1;
+            --tw-gradient-from: rgb(0 0 0 / .7) 1;
+            background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0));
+            align-items: flex-end;
+            display: flex;
+            inset: 0px;
+            position: absolute;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-213 {
+            color: rgb(255, 255, 255);
+            font-weight: 500;
+            border-color: rgb(226, 232, 240);
+            margin: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-214 {
+            aspect-ratio: 1 / 1;
+            overflow: hidden;
+            border-radius: 8px;
+            box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px;
+            transition-property: all;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            transition-duration: 0.3s;
+            animation-duration: 0.3s;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-215 {
+            overflow: hidden;
+            width: 100%;
+            height: 434.663px;
+            position: relative;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-216 {
+            animation-duration: 0.5s;
+            transition-duration: 0.5s;
+            transition-property: transform;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            object-fit: cover;
+            width: 100%;
+            height: 434.663px;
+            border-color: rgb(226, 232, 240);
+            max-width: 100%;
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-217 {
+            animation-duration: 0.3s;
+            transition-duration: 0.3s;
+            transition-property: opacity;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            opacity: 0;
+            padding: 24px;
+            --tw-gradient-to: transparent 1;
+            --tw-gradient-from: rgb(0 0 0 / .7) 1;
+            background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0));
+            align-items: flex-end;
+            display: flex;
+            inset: 0px;
+            position: absolute;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-218 {
+            color: rgb(255, 255, 255);
+            font-weight: 500;
+            border-color: rgb(226, 232, 240);
+            margin: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-219 {
+            text-align: center;
+            margin-top: 48px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-220 {
+            border-radius: 4px;
+            background-color: rgb(197, 157, 95);
+            padding: 12px 24px;
+            font-weight: 600;
+            color: rgb(255, 255, 255);
+            transition-property: all;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            transition-duration: 0.3s;
+            animation-duration: 0.3s;
+            border-color: rgb(226, 232, 240);
+            cursor: pointer;
+            appearance: button;
+            background-image: none;
+            text-transform: none;
+            font-family: Inter, sans-serif;
+            font-feature-settings: normal;
+            font-variation-settings: normal;
+            font-size: 16px;
+            line-height: 24px;
+            letter-spacing: normal;
+            margin: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-221 {
+            padding-top: 80px;
+            padding-bottom: 80px;
+            background-color: rgb(248, 248, 240);
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-222 {
+            padding-left: 24px;
+            padding-right: 24px;
+            max-width: 1400px;
+            margin-left: auto;
+            margin-right: auto;
+            width: 100%;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-223 {
+            text-align: center;
+            max-width: 768px;
+            margin-bottom: 64px;
+            margin-left: auto;
+            margin-right: auto;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-224 {
+            color: rgb(197, 157, 95);
+            letter-spacing: 1.4px;
+            text-transform: uppercase;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 20px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-225 {
+            font-size: 36px;
+            line-height: 40px;
+            font-weight: 700;
+            font-family: 'Playfair Display', serif;
+            margin-top: 8px;
+            margin-bottom: 16px;
+            border-color: rgb(226, 232, 240);
+            margin: 8px 0px 16px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-226 {
+            background-color: rgb(197, 157, 95);
+            width: 5rem;
+            height: 4px;
+            margin-bottom: 24px;
+            margin-left: auto;
+            margin-right: auto;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-227 {
+            color: rgb(75, 85, 99);
+            border-color: rgb(226, 232, 240);
+            margin: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-228 {
+            justify-content: center;
+            align-items: center;
+            display: flex;
+            margin-top: 16px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-229 {
+            color: rgb(197, 157, 95);
+            fill: rgb(197, 157, 95);
+            width: 1rem;
+            height: 16px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-230 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-231 {
+            color: rgb(197, 157, 95);
+            fill: rgb(197, 157, 95);
+            margin-right: 0px;
+            margin-left: 4px;
+            width: 1rem;
+            height: 16px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-232 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-233 {
+            color: rgb(197, 157, 95);
+            fill: rgb(197, 157, 95);
+            margin-right: 0px;
+            margin-left: 4px;
+            width: 1rem;
+            height: 16px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-234 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-235 {
+            color: rgb(197, 157, 95);
+            fill: rgb(197, 157, 95);
+            margin-right: 0px;
+            margin-left: 4px;
+            width: 1rem;
+            height: 16px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-236 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-237 {
+            color: rgb(197, 157, 95);
+            fill: rgb(197, 157, 95);
+            margin-right: 0px;
+            margin-left: 4px;
+            width: 1rem;
+            height: 16px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-238 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-239 {
+            color: rgb(75, 85, 99);
+            font-weight: 500;
+            margin-right: 0px;
+            margin-left: 4px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-240 {
+            grid-template-columns: 664px 664px;
+            gap: 24px;
+            display: grid;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-241 {
+            border-radius: 8px;
+            background-color: rgb(255, 255, 255);
+            padding: 24px;
+            box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.1) 0px 2px 4px -2px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-242 {
+            align-items: center;
+            display: flex;
+            margin-bottom: 8px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-243 {
+            color: rgb(197, 157, 95);
+            fill: rgb(197, 157, 95);
+            width: 1rem;
+            height: 16px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-244 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-245 {
+            color: rgb(197, 157, 95);
+            fill: rgb(197, 157, 95);
+            margin-right: 0px;
+            margin-left: 4px;
+            width: 1rem;
+            height: 16px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-246 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-247 {
+            color: rgb(197, 157, 95);
+            fill: rgb(197, 157, 95);
+            margin-right: 0px;
+            margin-left: 4px;
+            width: 1rem;
+            height: 16px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-248 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-249 {
+            color: rgb(197, 157, 95);
+            fill: rgb(197, 157, 95);
+            margin-right: 0px;
+            margin-left: 4px;
+            width: 1rem;
+            height: 16px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-250 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-251 {
+            color: rgb(197, 157, 95);
+            fill: rgb(197, 157, 95);
+            margin-right: 0px;
+            margin-left: 4px;
+            width: 1rem;
+            height: 16px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-252 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-253 {
+            color: rgb(55, 65, 81);
+            font-style: italic;
+            margin-bottom: 16px;
+            border-color: rgb(226, 232, 240);
+            margin: 0px 0px 16px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-254 {
+            justify-content: space-between;
+            align-items: center;
+            display: flex;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-255 {
+            font-weight: 500;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-256 {
+            color: rgb(107, 114, 128);
+            font-size: 14px;
+            line-height: 20px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-257 {
+            border-radius: 8px;
+            background-color: rgb(255, 255, 255);
+            padding: 24px;
+            box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.1) 0px 2px 4px -2px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-258 {
+            align-items: center;
+            display: flex;
+            margin-bottom: 8px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-259 {
+            color: rgb(197, 157, 95);
+            fill: rgb(197, 157, 95);
+            width: 1rem;
+            height: 16px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-260 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-261 {
+            color: rgb(197, 157, 95);
+            fill: rgb(197, 157, 95);
+            margin-right: 0px;
+            margin-left: 4px;
+            width: 1rem;
+            height: 16px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-262 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-263 {
+            color: rgb(197, 157, 95);
+            fill: rgb(197, 157, 95);
+            margin-right: 0px;
+            margin-left: 4px;
+            width: 1rem;
+            height: 16px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-264 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-265 {
+            color: rgb(197, 157, 95);
+            fill: rgb(197, 157, 95);
+            margin-right: 0px;
+            margin-left: 4px;
+            width: 1rem;
+            height: 16px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-266 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-267 {
+            color: rgb(209, 213, 219);
+            margin-right: 0px;
+            margin-left: 4px;
+            width: 1rem;
+            height: 16px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-268 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-269 {
+            color: rgb(55, 65, 81);
+            font-style: italic;
+            margin-bottom: 16px;
+            border-color: rgb(226, 232, 240);
+            margin: 0px 0px 16px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-270 {
+            justify-content: space-between;
+            align-items: center;
+            display: flex;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-271 {
+            font-weight: 500;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-272 {
+            color: rgb(107, 114, 128);
+            font-size: 14px;
+            line-height: 20px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-273 {
+            border-radius: 8px;
+            background-color: rgb(255, 255, 255);
+            padding: 24px;
+            box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.1) 0px 2px 4px -2px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-274 {
+            align-items: center;
+            display: flex;
+            margin-bottom: 8px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-275 {
+            color: rgb(197, 157, 95);
+            fill: rgb(197, 157, 95);
+            width: 1rem;
+            height: 16px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-276 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-277 {
+            color: rgb(197, 157, 95);
+            fill: rgb(197, 157, 95);
+            margin-right: 0px;
+            margin-left: 4px;
+            width: 1rem;
+            height: 16px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-278 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-279 {
+            color: rgb(197, 157, 95);
+            fill: rgb(197, 157, 95);
+            margin-right: 0px;
+            margin-left: 4px;
+            width: 1rem;
+            height: 16px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-280 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-281 {
+            color: rgb(197, 157, 95);
+            fill: rgb(197, 157, 95);
+            margin-right: 0px;
+            margin-left: 4px;
+            width: 1rem;
+            height: 16px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-282 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-283 {
+            color: rgb(197, 157, 95);
+            fill: rgb(197, 157, 95);
+            margin-right: 0px;
+            margin-left: 4px;
+            width: 1rem;
+            height: 16px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-284 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-285 {
+            color: rgb(55, 65, 81);
+            font-style: italic;
+            margin-bottom: 16px;
+            border-color: rgb(226, 232, 240);
+            margin: 0px 0px 16px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-286 {
+            justify-content: space-between;
+            align-items: center;
+            display: flex;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-287 {
+            font-weight: 500;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-288 {
+            color: rgb(107, 114, 128);
+            font-size: 14px;
+            line-height: 20px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-289 {
+            border-radius: 8px;
+            background-color: rgb(255, 255, 255);
+            padding: 24px;
+            box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.1) 0px 2px 4px -2px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-290 {
+            align-items: center;
+            display: flex;
+            margin-bottom: 8px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-291 {
+            color: rgb(197, 157, 95);
+            fill: rgb(197, 157, 95);
+            width: 1rem;
+            height: 16px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-292 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-293 {
+            color: rgb(197, 157, 95);
+            fill: rgb(197, 157, 95);
+            margin-right: 0px;
+            margin-left: 4px;
+            width: 1rem;
+            height: 16px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-294 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-295 {
+            color: rgb(197, 157, 95);
+            fill: rgb(197, 157, 95);
+            margin-right: 0px;
+            margin-left: 4px;
+            width: 1rem;
+            height: 16px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-296 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-297 {
+            color: rgb(209, 213, 219);
+            margin-right: 0px;
+            margin-left: 4px;
+            width: 1rem;
+            height: 16px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-298 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-299 {
+            color: rgb(209, 213, 219);
+            margin-right: 0px;
+            margin-left: 4px;
+            width: 1rem;
+            height: 16px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-300 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-301 {
+            color: rgb(55, 65, 81);
+            font-style: italic;
+            margin-bottom: 16px;
+            border-color: rgb(226, 232, 240);
+            margin: 0px 0px 16px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-302 {
+            justify-content: space-between;
+            align-items: center;
+            display: flex;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-303 {
+            font-weight: 500;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-304 {
+            color: rgb(107, 114, 128);
+            font-size: 14px;
+            line-height: 20px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-305 {
+            text-align: center;
+            margin-top: 48px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-306 {
+            transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            transition-duration: 0.15s;
+            color: rgb(15, 23, 42);
+            align-items: center;
+            display: inline-flex;
+            border-color: rgb(226, 232, 240);
+            text-decoration: none solid rgb(15, 23, 42);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-307 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-308 {
+            margin-right: 0px;
+            margin-left: 8px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-309 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-310 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-311 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-312 {
+            padding-top: 80px;
+            padding-bottom: 80px;
+            background-color: rgb(255, 255, 255);
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-313 {
+            padding-left: 24px;
+            padding-right: 24px;
+            max-width: 1400px;
+            margin-left: auto;
+            margin-right: auto;
+            width: 100%;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-314 {
+            grid-template-columns: 652px 652px;
+            gap: 48px;
+            display: grid;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-315 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-316 {
+            color: rgb(197, 157, 95);
+            letter-spacing: 1.4px;
+            text-transform: uppercase;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 20px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-317 {
+            font-size: 36px;
+            line-height: 40px;
+            font-weight: 700;
+            font-family: 'Playfair Display', serif;
+            margin-top: 8px;
+            margin-bottom: 24px;
+            border-color: rgb(226, 232, 240);
+            margin: 8px 0px 24px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-318 {
+            background-color: rgb(197, 157, 95);
+            width: 5rem;
+            height: 4px;
+            margin-bottom: 32px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-319 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-320 {
+            margin-bottom: 16px;
+            display: flex;
+            align-items: center;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-321 {
+            background-color: rgb(197, 157, 95);
+            border-radius: 9999px;
+            justify-content: center;
+            align-items: center;
+            width: 2.5rem;
+            height: 40px;
+            display: flex;
+            margin-right: 16px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-322 {
+            color: rgb(255, 255, 255);
+            width: 1.25rem;
+            height: 20px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-323 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-324 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-325 {
+            color: rgb(75, 85, 99);
+            border-color: rgb(226, 232, 240);
+            margin: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-326 {
+            transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            transition-duration: 0.15s;
+            font-weight: 500;
+            font-size: 18px;
+            line-height: 28px;
+            border-color: rgb(226, 232, 240);
+            color: rgb(2, 8, 23);
+            text-decoration: none solid rgb(2, 8, 23);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-327 {
+            margin-top: 24px;
+            margin-bottom: 0px;
+            display: flex;
+            align-items: center;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-328 {
+            background-color: rgb(197, 157, 95);
+            border-radius: 9999px;
+            justify-content: center;
+            align-items: center;
+            width: 2.5rem;
+            height: 40px;
+            display: flex;
+            margin-right: 16px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-329 {
+            color: rgb(255, 255, 255);
+            width: 1.25rem;
+            height: 20px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-330 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-331 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-332 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-333 {
+            color: rgb(75, 85, 99);
+            border-color: rgb(226, 232, 240);
+            margin: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-334 {
+            transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            transition-duration: 0.15s;
+            font-weight: 500;
+            font-size: 18px;
+            line-height: 28px;
+            border-color: rgb(226, 232, 240);
+            color: rgb(2, 8, 23);
+            text-decoration: none solid rgb(2, 8, 23);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-335 {
+            margin-top: 24px;
+            margin-bottom: 0px;
+            display: flex;
+            align-items: center;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-336 {
+            background-color: rgb(197, 157, 95);
+            border-radius: 9999px;
+            justify-content: center;
+            align-items: center;
+            width: 2.5rem;
+            height: 40px;
+            display: flex;
+            margin-right: 16px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-337 {
+            color: rgb(255, 255, 255);
+            width: 1.25rem;
+            height: 20px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-338 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-339 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-340 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-341 {
+            color: rgb(75, 85, 99);
+            border-color: rgb(226, 232, 240);
+            margin: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-342 {
+            transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            transition-duration: 0.15s;
+            font-weight: 500;
+            font-size: 18px;
+            line-height: 28px;
+            border-color: rgb(226, 232, 240);
+            color: rgb(2, 8, 23);
+            text-decoration: none solid rgb(2, 8, 23);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-343 {
+            margin-top: 24px;
+            margin-bottom: 0px;
+            display: flex;
+            align-items: center;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-344 {
+            background-color: rgb(197, 157, 95);
+            border-radius: 9999px;
+            justify-content: center;
+            align-items: center;
+            width: 2.5rem;
+            height: 40px;
+            display: flex;
+            margin-right: 16px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-345 {
+            color: rgb(255, 255, 255);
+            width: 1.25rem;
+            height: 20px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-346 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-347 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-348 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-349 {
+            color: rgb(75, 85, 99);
+            border-color: rgb(226, 232, 240);
+            margin: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-350 {
+            gap: 4px;
+            grid-template-columns: 151.65px 151.65px;
+            display: grid;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-351 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-352 {
+            font-weight: 500;
+            border-color: rgb(226, 232, 240);
+            margin: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-353 {
+            border-color: rgb(226, 232, 240);
+            margin: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-354 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-355 {
+            font-weight: 500;
+            border-color: rgb(226, 232, 240);
+            margin: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-356 {
+            border-color: rgb(226, 232, 240);
+            margin: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-357 {
+            margin-top: 8px;
+            grid-column: span 2 / span 2;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-358 {
+            font-weight: 500;
+            border-color: rgb(226, 232, 240);
+            margin: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-359 {
+            border-color: rgb(226, 232, 240);
+            margin: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-360 {
+            height: auto;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-361 {
+            box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px;
+            border-radius: 8px;
+            overflow: hidden;
+            height: 492px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-362 {
+            border: 0px;
+            border-color: rgb(2, 8, 23);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: none;
+        }
+
+        .style-363 {
+            color: rgb(255, 255, 255);
+            background-color: rgb(15, 23, 42);
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-364 {
+            padding-left: 24px;
+            padding-right: 24px;
+            max-width: 1400px;
+            padding-top: 48px;
+            padding-bottom: 48px;
+            margin-left: auto;
+            margin-right: auto;
+            width: 100%;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-365 {
+            grid-template-columns: 314px 314px 314px 314px;
+            gap: 32px;
+            display: grid;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-366 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-367 {
+            font-weight: 700;
+            font-size: 24px;
+            line-height: 32px;
+            font-family: 'Playfair Display', serif;
+            margin-bottom: 16px;
+            border-color: rgb(226, 232, 240);
+            margin: 0px 0px 16px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-368 {
+            color: rgb(197, 157, 95);
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-369 {
+            color: rgb(156, 163, 175);
+            margin-bottom: 24px;
+            border-color: rgb(226, 232, 240);
+            margin: 0px 0px 24px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-370 {
+            align-items: center;
+            display: flex;
+            margin-bottom: 8px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-371 {
+            color: rgb(197, 157, 95);
+            fill: rgb(197, 157, 95);
+            width: 1rem;
+            height: 16px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-372 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-373 {
+            color: rgb(197, 157, 95);
+            fill: rgb(197, 157, 95);
+            margin-right: 0px;
+            margin-left: 4px;
+            width: 1rem;
+            height: 16px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-374 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-375 {
+            color: rgb(197, 157, 95);
+            fill: rgb(197, 157, 95);
+            margin-right: 0px;
+            margin-left: 4px;
+            width: 1rem;
+            height: 16px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-376 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-377 {
+            color: rgb(197, 157, 95);
+            fill: rgb(197, 157, 95);
+            margin-right: 0px;
+            margin-left: 4px;
+            width: 1rem;
+            height: 16px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-378 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-379 {
+            color: rgb(197, 157, 95);
+            margin-right: 0px;
+            margin-left: 4px;
+            width: 1rem;
+            height: 16px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-380 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-381 {
+            color: rgb(156, 163, 175);
+            margin-right: 0px;
+            margin-left: 4px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-382 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-383 {
+            font-weight: 500;
+            font-size: 18px;
+            line-height: 28px;
+            margin-bottom: 16px;
+            font-family: 'Playfair Display', serif;
+            border-color: rgb(226, 232, 240);
+            margin: 0px 0px 16px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-384 {
+            border-color: rgb(226, 232, 240);
+            list-style: outside none none;
+            margin: 0px;
+            padding: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-385 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-386 {
+            transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            transition-duration: 0.15s;
+            color: rgb(156, 163, 175);
+            border-color: rgb(226, 232, 240);
+            text-decoration: none solid rgb(156, 163, 175);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-387 {
+            margin-top: 8px;
+            margin-bottom: 0px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-388 {
+            transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            transition-duration: 0.15s;
+            color: rgb(156, 163, 175);
+            border-color: rgb(226, 232, 240);
+            text-decoration: none solid rgb(156, 163, 175);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-389 {
+            margin-top: 8px;
+            margin-bottom: 0px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-390 {
+            transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            transition-duration: 0.15s;
+            color: rgb(156, 163, 175);
+            border-color: rgb(226, 232, 240);
+            text-decoration: none solid rgb(156, 163, 175);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-391 {
+            margin-top: 8px;
+            margin-bottom: 0px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-392 {
+            transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            transition-duration: 0.15s;
+            color: rgb(156, 163, 175);
+            border-color: rgb(226, 232, 240);
+            text-decoration: none solid rgb(156, 163, 175);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-393 {
+            margin-top: 8px;
+            margin-bottom: 0px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-394 {
+            transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            transition-duration: 0.15s;
+            color: rgb(156, 163, 175);
+            border-color: rgb(226, 232, 240);
+            text-decoration: none solid rgb(156, 163, 175);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-395 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-396 {
+            font-weight: 500;
+            font-size: 18px;
+            line-height: 28px;
+            margin-bottom: 16px;
+            font-family: 'Playfair Display', serif;
+            border-color: rgb(226, 232, 240);
+            margin: 0px 0px 16px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-397 {
+            border-color: rgb(226, 232, 240);
+            list-style: outside none none;
+            margin: 0px;
+            padding: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-398 {
+            color: rgb(156, 163, 175);
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-399 {
+            color: rgb(156, 163, 175);
+            margin-top: 8px;
+            margin-bottom: 0px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-400 {
+            color: rgb(156, 163, 175);
+            margin-top: 8px;
+            margin-bottom: 0px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-401 {
+            color: rgb(156, 163, 175);
+            margin-top: 8px;
+            margin-bottom: 0px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-402 {
+            color: rgb(156, 163, 175);
+            margin-top: 8px;
+            margin-bottom: 0px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-403 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-404 {
+            font-weight: 500;
+            font-size: 18px;
+            line-height: 28px;
+            margin-bottom: 16px;
+            font-family: 'Playfair Display', serif;
+            border-color: rgb(226, 232, 240);
+            margin: 0px 0px 16px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-405 {
+            border-color: rgb(226, 232, 240);
+            list-style: outside none none;
+            margin: 0px;
+            padding: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-406 {
+            justify-content: space-between;
+            display: flex;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-407 {
+            color: rgb(156, 163, 175);
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-408 {
+            color: rgb(156, 163, 175);
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-409 {
+            margin-top: 8px;
+            margin-bottom: 0px;
+            justify-content: space-between;
+            display: flex;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-410 {
+            color: rgb(156, 163, 175);
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-411 {
+            color: rgb(156, 163, 175);
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-412 {
+            margin-top: 8px;
+            margin-bottom: 0px;
+            justify-content: space-between;
+            display: flex;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-413 {
+            color: rgb(156, 163, 175);
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-414 {
+            color: rgb(156, 163, 175);
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-415 {
+            margin-top: 24px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-416 {
+            font-weight: 500;
+            font-size: 18px;
+            line-height: 28px;
+            margin-bottom: 8px;
+            font-family: 'Playfair Display', serif;
+            border-color: rgb(226, 232, 240);
+            margin: 0px 0px 8px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-417 {
+            display: flex;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-418 {
+            transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            transition-duration: 0.15s;
+            color: rgb(197, 157, 95);
+            padding: 8px;
+            background-color: rgba(197, 157, 95, 0.2);
+            border-radius: 9999px;
+            border-color: rgb(226, 232, 240);
+            text-decoration: none solid rgb(197, 157, 95);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-419 {
+            width: 1.25rem;
+            height: 20px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-420 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-421 {
+            transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            transition-duration: 0.15s;
+            color: rgb(197, 157, 95);
+            padding: 8px;
+            background-color: rgba(197, 157, 95, 0.2);
+            border-radius: 9999px;
+            margin-right: 0px;
+            margin-left: 16px;
+            border-color: rgb(226, 232, 240);
+            text-decoration: none solid rgb(197, 157, 95);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-422 {
+            width: 1.25rem;
+            height: 20px;
+            border-color: rgb(226, 232, 240);
+            display: block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-423 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-424 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-425 {
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-426 {
+            text-align: left;
+            justify-content: space-between;
+            display: flex;
+            padding-top: 32px;
+            border-color: rgb(31, 41, 55);
+            border-top-width: 0.8px;
+            margin-top: 48px;
+            box-sizing: border-box;
+            border-width: 0.8px 0px 0px;
+            border-style: solid;
+        }
+
+        .style-427 {
+            color: rgb(107, 114, 128);
+            border-color: rgb(226, 232, 240);
+            margin: 0px;
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-428 {
+            margin-top: 0px;
+            border-color: rgb(226, 232, 240);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-429 {
+            transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            transition-duration: 0.15s;
+            color: rgb(107, 114, 128);
+            margin-left: 8px;
+            margin-right: 8px;
+            border-color: rgb(226, 232, 240);
+            text-decoration: none solid rgb(107, 114, 128);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
+
+        .style-430 {
+            transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            transition-duration: 0.15s;
+            color: rgb(107, 114, 128);
+            margin-left: 8px;
+            margin-right: 8px;
+            border-color: rgb(226, 232, 240);
+            text-decoration: none solid rgb(107, 114, 128);
+            box-sizing: border-box;
+            border-width: 0px;
+            border-style: solid;
+        }
